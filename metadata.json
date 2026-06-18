@@ -1,0 +1,6 @@
+{
+  "name": "First Speaker Rules: SAC Math Edition",
+  "description": "An interactive classroom utility for Santa Ana College math workshops, designed to eliminate breakout room silence with math-themed and hyper-local icebreakers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
